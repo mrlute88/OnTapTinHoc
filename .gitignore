@@ -1,0 +1,10 @@
+# Local env files
+env.js
+
+# Dependencies
+node_modules/
+.agent/
+
+# OS files
+.DS_Store
+Thumbs.db
